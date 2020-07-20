@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**dehlen/dehlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">👋 Hi there! I'm David</h3>
+<p align="center">
+  <a href="https://davidehlen.dev">Website</a> •
+  <a href="https://twitter.com/da_eh">Twitter</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+✨ Hi, I’m David, and I live in Karlsruhe, Germany. I work as an iOS developer for a German drugstore chain called "dm" which is among Germany’s most popular brands. We are currently building the [Mein dm App](https://apps.apple.com/de/app/mein-dm-deutschland/id1186271926).
+   
+- 💬 Ask me about: Swift, iOS, macOS 
+- 📫 How to reach me: [@da_eh](https://twitter.com/da_eh)
+- ⚽️ In my freetime I like to play various sport games like soccer and tennis
