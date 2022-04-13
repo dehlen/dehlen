@@ -5,7 +5,7 @@
 </p>
 
 ---
-✨ Hi, I’m David, and I live in Karlsruhe, Germany. I work as an iOS developer for a German drugstore chain called [dm](https://www.dmtech.de) which is among Germany’s most popular brands. We are currently building the [Mein dm App](https://apps.apple.com/de/app/mein-dm-deutschland/id1186271926).
+✨ Hi, I’m David, and I live in Landau, Germany. I work as an iOS developer for a German drugstore chain called [dm](https://www.dmtech.de) which is among Germany’s most popular brands. We are currently building the [Mein dm App](https://apps.apple.com/de/app/mein-dm-deutschland/id1186271926).
    
 - 💬 Ask me about: Swift, iOS, macOS 
 - 📫 How to reach me: [@da_eh](https://twitter.com/da_eh)
