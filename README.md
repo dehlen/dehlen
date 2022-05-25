@@ -9,5 +9,5 @@
    
 - 💬 Ask me about: Swift, iOS, macOS 
 - 📫 How to reach me: [@da_eh](https://twitter.com/da_eh)
-- ⚽️ In my freetime I like to play various sport games like soccer and tennis
+- 🎾 In my freetime I like to play various sport games like soccer and tennis
 - ♟ Ocassionally I also try to improve my chess skills over at lichess.org.
